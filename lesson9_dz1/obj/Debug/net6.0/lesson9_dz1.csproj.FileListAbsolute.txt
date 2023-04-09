@@ -1,0 +1,15 @@
+C:\Users\smack\OneDrive\Рабочий стол\C#ДомашнееЗадание\lesson9_dz1\bin\Debug\net6.0\lesson9_dz1.exe
+C:\Users\smack\OneDrive\Рабочий стол\C#ДомашнееЗадание\lesson9_dz1\bin\Debug\net6.0\lesson9_dz1.deps.json
+C:\Users\smack\OneDrive\Рабочий стол\C#ДомашнееЗадание\lesson9_dz1\bin\Debug\net6.0\lesson9_dz1.runtimeconfig.json
+C:\Users\smack\OneDrive\Рабочий стол\C#ДомашнееЗадание\lesson9_dz1\bin\Debug\net6.0\lesson9_dz1.dll
+C:\Users\smack\OneDrive\Рабочий стол\C#ДомашнееЗадание\lesson9_dz1\bin\Debug\net6.0\lesson9_dz1.pdb
+C:\Users\smack\OneDrive\Рабочий стол\C#ДомашнееЗадание\lesson9_dz1\obj\Debug\net6.0\lesson9_dz1.csproj.AssemblyReference.cache
+C:\Users\smack\OneDrive\Рабочий стол\C#ДомашнееЗадание\lesson9_dz1\obj\Debug\net6.0\lesson9_dz1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smack\OneDrive\Рабочий стол\C#ДомашнееЗадание\lesson9_dz1\obj\Debug\net6.0\lesson9_dz1.AssemblyInfoInputs.cache
+C:\Users\smack\OneDrive\Рабочий стол\C#ДомашнееЗадание\lesson9_dz1\obj\Debug\net6.0\lesson9_dz1.AssemblyInfo.cs
+C:\Users\smack\OneDrive\Рабочий стол\C#ДомашнееЗадание\lesson9_dz1\obj\Debug\net6.0\lesson9_dz1.csproj.CoreCompileInputs.cache
+C:\Users\smack\OneDrive\Рабочий стол\C#ДомашнееЗадание\lesson9_dz1\obj\Debug\net6.0\lesson9_dz1.dll
+C:\Users\smack\OneDrive\Рабочий стол\C#ДомашнееЗадание\lesson9_dz1\obj\Debug\net6.0\refint\lesson9_dz1.dll
+C:\Users\smack\OneDrive\Рабочий стол\C#ДомашнееЗадание\lesson9_dz1\obj\Debug\net6.0\lesson9_dz1.pdb
+C:\Users\smack\OneDrive\Рабочий стол\C#ДомашнееЗадание\lesson9_dz1\obj\Debug\net6.0\lesson9_dz1.genruntimeconfig.cache
+C:\Users\smack\OneDrive\Рабочий стол\C#ДомашнееЗадание\lesson9_dz1\obj\Debug\net6.0\ref\lesson9_dz1.dll
